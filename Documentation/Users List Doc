@@ -1,0 +1,104 @@
+Total users created: 15
+Finance users: dchen, kmills, rhayes, lpark
+HR users: storres, jwhitfield, mgrant, 
+IT users: mjohnson, ppatel, tbrooks, acoleman
+Operations users: bfoster, jcooper, crivera, mross
+Confirm all users assigned to correct security groups
+Date completed; 8/28/2026
+
+First name: David
+Last name: Chen
+SAMAccountName: dchen
+UPN: dchen@NMG.com
+Job Title: Finance Manager
+Department: Finance
+
+First name: Karen
+Last name: Mills
+SAMAccountName: kmills
+UPN: kmills@NMG.com
+Job Title: Finance Analyst
+Department: Finance
+
+First name: Robert
+Last name: Hayes
+SAMAccountName: rhayes
+UPN: rhayes@NMG.com
+Job Title: Payroll Specialist
+Department: Finance
+
+First name: Lisa
+Last name: Park
+SAMAccountName: lpark
+UPN: lpark@NMG.com
+Job Title: Accounts Payable
+Department: Finance
+
+First name: Sandra
+Last name: Torres
+SAMAccountName: storres
+UPN: storres@NMG.com
+Job Title: HR Manager
+
+First name: James
+Last name: Whitfield
+SAMAccountName: jwhitfield
+UPN: jwhitfield@NMG.com
+Job Title: HR Recruiter
+Department: HR
+
+First name: Michelle
+Last name: Grant
+SAMAccountName: mgrant
+UPN: mgrant@NMG.com
+Job Title: Benefits Coordinator
+Department: HR
+
+First name: Marcus
+Last name: Johnson
+SAMAccountName: mjohnson
+UPN: mjohnson@NMG.com
+Job Title: IT Administrator
+Department: IT
+
+First name: Priya
+Last name: Patel
+SAMAccountName: ppatel
+UPN: ppatel@NMG.com
+Job Title: Security Analyst
+Department: IT
+
+First name: Tyler
+Last name: Brooks
+SAMAccountName: tbrooks
+UPN: tbrooks@NMG.com
+Job Title: Help Desk Technician
+Department: IT
+
+First name: Aisha
+Last name: Coleman
+SAMAccountName: acoleman
+UPN: acoleman@NMG.com
+Job Title: Systems Engineer
+Department: IT
+
+First name: Brian
+Last name: Foster
+SAMAccountName: bfoster
+UPN: bfoster@NMG.com
+Job Title: Operations Manager
+Department: Operations
+
+First name: Jane
+Last name: Cooper
+SAMAccountName: jcooper
+UPN: jcooper@NMG.com
+Job Title: Operations Coordinator
+Department: Operations
+
+First name: Carlos
+Last name: Rivera
+SAMAccountName: crivera
+UPN: crivera@NMG.com
+Job Title: Facilities Supervisor
+Department: Operations
