@@ -1,0 +1,15 @@
+1. Jane's user identity is in the Operations OU
+2. Jane was in the Operations OU but she needs to be moved in the HR OU because she's a payroll specialist.
+3. Jane is currently a member of Operations-Users. She should be a member of HR-Users.
+
+Jane’s user account was mistakenly placed in the Operations OU, even though she should have been in the HR OU because she was hired as a payroll
+specialist. As a result, she was denied access to all HR shared resources, and her desktop behaved differently from her HR teammates.
+
+Ticket number: NMG-0047
+Affected user: Jane Cooper (jcooper@NMG.com)
+Issue reported: Unable to access HR shared resources. Desktop policies and mapped drives differ from teammates.
+Root cause: She was placed on the wrong OU and Security Group.
+Fix applied: I moved her to HR OU and remove her member of Operations-Users and added her to HR-Users.
+Verification: I reviewed her list and took screenshots of her OU and security group to the correct category.
+Date resolved: 8/28/2026
+Resolved by: IT New Hire
